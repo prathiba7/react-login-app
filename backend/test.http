@@ -1,0 +1,8 @@
+POST  http://localhost:3000/user/reg
+Content-Type: application/json
+
+{
+    "username":"prathiba",
+    "email":"abc@gmail.com",
+    "password":"abc"
+}
